@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* Colors from the approved mockup. Defining them here gives classes like bg-paper, text-ink, bg-accent. */
+@theme {
+  --color-paper: #f3f5f1;
+  --color-ink: #17261f;
+  --color-accent: #0f5c4d;
+  --color-muted: #4a5a53;
+  --color-line: #d9dfda;
+  --color-sidebar: #0f2f27;
+  --color-sidebar-active: #1c4a3e;
+  --color-done-bg: #ddf0e7;
+  --color-done-ink: #0b4a3c;
+  --color-todo-bg: #e6eaf0;
+  --color-todo-ink: #2b3a4d;
+  --color-warn: #fbe3b8;
+  --color-warn-ink: #3b2400;
+  --color-why: #e1eee8;
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}

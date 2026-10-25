@@ -1,0 +1,113 @@
+[
+  {
+    "id": "register-business-tax-id",
+    "title": "Register for a New Mexico business tax ID",
+    "title_es": "Registre su negocio para obtener un número de identificación fiscal de Nuevo México",
+    "explanation": "Anyone who engages in business in New Mexico must register with the Taxation and Revenue Department. Registration is free. You can apply online through the state's Taxpayer Access Point (TAP) or with form ACD-31015. After it processes your application, the state mails you a registration certificate with your Business Tax Identification Number. The City of Alamogordo asks for this number before it registers your business.",
+    "explanation_es": "Toda persona que hace negocios en Nuevo México debe registrarse en el Departamento de Impuestos y Rentas (Taxation and Revenue Department). El registro es gratis. Puede solicitarlo en línea mediante el Taxpayer Access Point (TAP) del estado o con el formulario ACD-31015. Cuando el estado procesa su solicitud, le envía por correo un certificado de registro con su Número de Identificación Fiscal Comercial (Business Tax Identification Number). La Ciudad de Alamogordo pide este número antes de registrar su negocio.",
+    "why_applies": "Your business operates in New Mexico.",
+    "why_applies_es": "Su negocio opera en Nuevo México.",
+    "applies_if": {},
+    "agency": "New Mexico Taxation and Revenue Department",
+    "agency_es": "Departamento de Impuestos y Rentas de Nuevo México (Taxation and Revenue Department)",
+    "source_url": "https://www.tax.newmexico.gov/businesses/who-must-register-a-business/",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "file-grt-return",
+    "title": "File your gross receipts tax return",
+    "title_es": "Presente su declaración del impuesto sobre los ingresos brutos (Gross Receipts Tax)",
+    "explanation": "File a gross receipts tax return for every reporting period. It is due on or before the 25th of the month after the period ends. If the due date falls on a weekend or holiday, it moves to the next business day. File even if no tax is due: the state charges a minimum $5.00 penalty for failing to file. The state asks you to file online through the Taxpayer Access Point (TAP) and requires it if your average monthly gross receipts tax is $1,000 or more.",
+    "explanation_es": "Presente una declaración del impuesto sobre los ingresos brutos por cada período de reporte. Vence a más tardar el día 25 del mes siguiente al fin del período. Si la fecha de vencimiento cae en fin de semana o día feriado, se pasa al siguiente día hábil. Presente la declaración aunque no deba impuesto: el estado cobra una multa mínima de $5.00 por no presentarla. El estado le pide presentarla en línea mediante el Taxpayer Access Point (TAP) y lo exige si el promedio mensual de su impuesto sobre los ingresos brutos es de $1,000 o más.",
+    "why_applies": "Your business operates in New Mexico.",
+    "why_applies_es": "Su negocio opera en Nuevo México.",
+    "applies_if": {},
+    "agency": "New Mexico Taxation and Revenue Department",
+    "agency_es": "Departamento de Impuestos y Rentas de Nuevo México (Taxation and Revenue Department)",
+    "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "confirm-filing-frequency",
+    "title": "Confirm your gross receipts tax filing frequency",
+    "title_es": "Confirme la frecuencia de presentación de su impuesto sobre los ingresos brutos",
+    "explanation": "The state assigns your business a filing frequency: monthly, quarterly, or semiannual. It appears on the registration certificate the state sent you. Seasonal, temporary, and special event filers file monthly. Your due dates depend on it, so confirm which one you were assigned before relying on the deadlines in this app.",
+    "explanation_es": "El estado le asigna a su negocio una frecuencia de presentación: mensual, trimestral o semestral. Aparece en el certificado de registro que le envió el estado. Los contribuyentes de temporada, temporales y de eventos especiales presentan cada mes. Sus fechas límite dependen de ella, así que confirme cuál le asignaron antes de confiar en las fechas de esta aplicación.",
+    "why_applies": "Your business operates in New Mexico.",
+    "why_applies_es": "Su negocio opera en Nuevo México.",
+    "applies_if": {},
+    "agency": "New Mexico Taxation and Revenue Department",
+    "agency_es": "Departamento de Impuestos y Rentas de Nuevo México (Taxation and Revenue Department)",
+    "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "find-location-code-and-rate",
+    "title": "Find your location code and combined tax rate",
+    "title_es": "Encuentre el código de ubicación y la tasa combinada de su impuesto",
+    "explanation": "Your gross receipts tax rate combines state, county, and city rates, so it depends on location. In general, you use the location code and rate for where your goods are delivered. Some cases, such as professional services, follow different rules. Look up your code and combined rate on the state's rate tables.",
+    "explanation_es": "La tasa del impuesto sobre los ingresos brutos combina las tasas del estado, el condado y la ciudad, así que depende de la ubicación. En general, se usa el código de ubicación y la tasa del lugar donde se entregan sus bienes. Algunos casos, como los servicios profesionales, siguen reglas distintas. Busque su código y su tasa combinada en las tablas de tasas del estado.",
+    "why_applies": "Your business operates in New Mexico.",
+    "why_applies_es": "Su negocio opera en Nuevo México.",
+    "applies_if": {},
+    "agency": "New Mexico Taxation and Revenue Department",
+    "agency_es": "Departamento de Impuestos y Rentas de Nuevo México (Taxation and Revenue Department)",
+    "source_url": "https://www.tax.newmexico.gov/businesses/gross-receipts-overview/",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "wage-withholding",
+    "title": "Withhold state income tax from employee wages",
+    "title_es": "Retenga el impuesto estatal sobre los ingresos de los sueldos de sus empleados",
+    "explanation": "If you pay employees, you must hold back part of their wages for New Mexico personal income tax. If you withhold federal income tax from an employee, you must also withhold state income tax.",
+    "explanation_es": "Si paga a empleados, debe retener una parte de sus sueldos para el impuesto personal sobre los ingresos de Nuevo México. Si retiene impuesto federal sobre los ingresos de un empleado, también debe retener el impuesto estatal.",
+    "why_applies": "You said you have employees.",
+    "why_applies_es": "Usted dijo que tiene empleados.",
+    "applies_if": {
+      "hasEmployees": true
+    },
+    "agency": "New Mexico Taxation and Revenue Department",
+    "agency_es": "Departamento de Impuestos y Rentas de Nuevo México (Taxation and Revenue Department)",
+    "source_url": "https://biz.nm.gov/business-navigator/file-and-pay-taxes",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "alamogordo-business-registration",
+    "title": "Register your business with the City of Alamogordo",
+    "title_es": "Registre su negocio en la Ciudad de Alamogordo",
+    "explanation": "Any business inside the Alamogordo city limits needs a city business registration, issued by the City Clerk. Before you apply you need a New Mexico business tax ID, plus approval forms from the Planning and Zoning Department and the Alamogordo Fire Department. The city's information sheet lists a $35 registration fee that is not prorated. Confirm the current fee and renewal date with the City Clerk at 575-439-4100. A new location or a new owner needs a new registration. Some businesses, such as food vendors, need other licenses too.",
+    "explanation_es": "Todo negocio dentro de los límites de la ciudad de Alamogordo necesita un registro de negocio de la ciudad, que emite la Secretaría Municipal (City Clerk). Antes de solicitarlo necesita un número de identificación fiscal de negocio de Nuevo México, además de los formularios de aprobación del Departamento de Planificación y Zonificación (Planning and Zoning) y del Departamento de Bomberos de Alamogordo. La hoja informativa de la ciudad indica una cuota de registro de $35 que no se prorratea. Confirme la cuota vigente y la fecha de renovación con la Secretaría Municipal al 575-439-4100. Un local nuevo o un dueño nuevo necesita un registro nuevo. Algunos negocios, como los vendedores de comida, necesitan otras licencias.",
+    "why_applies": "You said your business is in Alamogordo.",
+    "why_applies_es": "Usted dijo que su negocio está en Alamogordo.",
+    "applies_if": {
+      "city": "alamogordo"
+    },
+    "agency": "City of Alamogordo",
+    "agency_es": "Ciudad de Alamogordo (City of Alamogordo)",
+    "source_url": "https://ci.alamogordo.nm.us/151/Business-Registrations-Licenses-Permits",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  },
+  {
+    "id": "alamogordo-zoning",
+    "title": "Get Alamogordo Planning and Zoning approval",
+    "title_es": "Obtenga la aprobación de Planificación y Zonificación de Alamogordo",
+    "explanation": "The City of Alamogordo requires approval from its Planning and Zoning Department before the City Clerk will register your business. You complete the Business Information Prerequisite form, which is on the city's Planning and Zoning page. Planning and Zoning also reviews building permit applications for zoning compliance. Call 575-439-4220 before you sign a lease or start work at a location.",
+    "explanation_es": "La Ciudad de Alamogordo exige la aprobación de su Departamento de Planificación y Zonificación (Planning and Zoning) antes de que la Secretaría Municipal registre su negocio. Usted completa el formulario Business Information Prerequisite, que está en la página de Planificación y Zonificación de la ciudad. Planificación y Zonificación también revisa las solicitudes de permisos de construcción para verificar que cumplan con la zonificación. Llame al 575-439-4220 antes de firmar un contrato de arrendamiento o empezar trabajos en un local.",
+    "why_applies": "You said your business is in Alamogordo.",
+    "why_applies_es": "Usted dijo que su negocio está en Alamogordo.",
+    "applies_if": {
+      "city": "alamogordo"
+    },
+    "agency": "City of Alamogordo",
+    "agency_es": "Ciudad de Alamogordo (City of Alamogordo)",
+    "source_url": "https://ci.alamogordo.nm.us/162/Planning-Zoning",
+    "last_verified": "2026-10-24",
+    "status": "verified"
+  }
+]
