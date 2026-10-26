@@ -11,7 +11,7 @@ function Header() {
     <header className="flex items-center justify-between px-4 py-4 md:px-9 print:hidden">
       <Link to="/" className="flex items-center gap-2.5 text-xl font-bold tracking-tight">
         {/* alt is empty because the words next to the logo already name the app. */}
-        <img src="/favicon.svg" alt="" width="32" height="32" />
+        <img src="/favicon.svg" alt="" width="70" height="70" />
         Bizcheck NM
       </Link>
       <div role="group" aria-label={t('languageGroup')} className="flex gap-1.5">
